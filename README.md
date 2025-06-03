@@ -1,5 +1,5 @@
 # SRB2-ManhuntMod
-recreating minecraft manhunt to a certain extent
+Recreating Minecraft manhunt to a certain extent in SRB2. With some give and take due to trying to flow just a bit better.
 
 # Commands
 Type "mhhelp" into the SRB2 console to get a brief explanation of commands.
