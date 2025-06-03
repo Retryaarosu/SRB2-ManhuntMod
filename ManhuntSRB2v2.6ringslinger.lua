@@ -1,3 +1,4 @@
+--[[Manhunt SRB2 mod made by @retryaarosu]]--
 G_AddGametype({
 	name = "Manhunt",
 	identifier = "mah",
